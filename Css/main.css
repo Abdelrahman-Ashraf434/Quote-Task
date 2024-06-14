@@ -1,0 +1,20 @@
+.header-title {
+  font-family: fantasy;
+  font-size: 5rem;
+}
+.parag-hint {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.header-btn {
+  padding: 1.5rem 5rem;
+  background-color: blue;
+  color: white;
+}
+.header-btn:hover {
+  background-color: green;
+}
+.quotes {
+  margin-top: 1rem;
+  font-size: 2.5rem;
+}
